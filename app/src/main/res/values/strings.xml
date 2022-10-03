@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Producto</string>
+    <string name="action_menu_producto">Opciones</string>
+    <string name="guardar">Guardar</string>
+    <string name="excluir">Excluir</string>
+    <string name="salir">Salir</string>
+    <string name="Producto">Usuarios</string>
+    <string name="nuevo_producto">Nuevo Producto</string>
+
+
+    <!-- Mensajes -->
+    <string name="title_activity_usuario">Registro de Usuarios</string>
+    <string name="msg_product_guardado">Registro Guardado..!</string>
+    <string name="msg_product_modificado">Registro Modificado..!</string>
+    <string name="msg_product_eliminado">Registro Eliminado..!</string>
+    <string name="msg_product_error">Error al guardar!</string>
+
+
+    <!-- Usuarios -->
+    <string name="Producto_txtNombre">Nombre:</string>
+    <string name="Producto_txTPrecio">Precio:</string>
+    <string name="Producto_txtStock">Stock:</string>
+    <string name="Login_btnRegistrar">Registrar</string>
+    <string name="title_activity_list_productos">Lista de Productos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Lista_Productos">Lista de Productos</string>
+    <string name="title_activity_list_producto">ListProductoActivity</string>
+</resources>
